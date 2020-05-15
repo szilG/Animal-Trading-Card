@@ -1,0 +1,55 @@
+/* add your CSS here */
+.container {
+    width: 400px;
+    height: 800px;
+    background-image: linear-gradient( #564343, #c8b6b6);
+    border: 5px solid #6e6d6d;
+    border-radius: 5px;
+    
+    
+}
+.container2 {
+    width: 300px;
+    height: 480px;
+    border: 1px solid rgb(221, 212, 212);
+    border-radius: 10px;
+	margin: 0 auto;
+    padding: 10px;
+    
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: 1px solid rgb(221, 212, 212); 
+    border-radius: 10px;
+    margin: auto auto auto 40px;
+    padding: 10px;
+    
+}
+ul {
+    list-style: none;
+    text-align: left;
+    color: rgb(240, 236, 236);
+    padding: 5px;
+    
+}
+span {
+    font-weight: bold;
+
+}
+h3 {
+    border: 1px solid rgb(221, 212, 212);
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+.italic{
+    text-align: left;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
