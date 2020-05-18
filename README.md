@@ -1,3 +1,5 @@
+# *Animal Trading Card Project*
+
 I created this project on Udacity Intro to Programming Nanodegree course. 
 
-Using HTML and CSS.
+A web-based trading card representing an animal using basic HTML and CSS.
